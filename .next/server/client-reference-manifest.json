@@ -1070,32 +1070,6 @@
         "async": false
       }
     },
-    "(app-client)/./app/profile/[id]/page.jsx": {
-      "*": {
-        "id": "(sc_client)/./app/profile/[id]/page.jsx",
-        "name": "*",
-        "chunks": [
-          "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./app/profile/[id]/page.jsx",
-        "name": "",
-        "chunks": [
-          "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./app/profile/[id]/page.jsx",
-        "name": "default",
-        "chunks": [
-          "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./app/create-prompt/page.jsx": {
       "*": {
         "id": "(sc_client)/./app/create-prompt/page.jsx",
@@ -1118,6 +1092,32 @@
         "name": "default",
         "chunks": [
           "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/profile/[id]/page.jsx": {
+      "*": {
+        "id": "(sc_client)/./app/profile/[id]/page.jsx",
+        "name": "*",
+        "chunks": [
+          "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/profile/[id]/page.jsx",
+        "name": "",
+        "chunks": [
+          "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/profile/[id]/page.jsx",
+        "name": "default",
+        "chunks": [
+          "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
         ],
         "async": false
       }
@@ -3337,30 +3337,6 @@
       ],
       "async": false
     },
-    "/Users/kishanprajapati/Personal-learning-projects/Nextjs/promtopia/app/profile/[id]/page.jsx": {
-      "id": "(app-client)/./app/profile/[id]/page.jsx",
-      "name": "*",
-      "chunks": [
-        "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/Users/kishanprajapati/Personal-learning-projects/Nextjs/promtopia/app/profile/[id]/page.jsx#": {
-      "id": "(app-client)/./app/profile/[id]/page.jsx",
-      "name": "",
-      "chunks": [
-        "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
-      ],
-      "async": false
-    },
-    "/Users/kishanprajapati/Personal-learning-projects/Nextjs/promtopia/app/profile/[id]/page.jsx#default": {
-      "id": "(app-client)/./app/profile/[id]/page.jsx",
-      "name": "default",
-      "chunks": [
-        "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
-      ],
-      "async": false
-    },
     "/Users/kishanprajapati/Personal-learning-projects/Nextjs/promtopia/app/create-prompt/page.jsx": {
       "id": "(app-client)/./app/create-prompt/page.jsx",
       "name": "*",
@@ -3382,6 +3358,30 @@
       "name": "default",
       "chunks": [
         "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
+      ],
+      "async": false
+    },
+    "/Users/kishanprajapati/Personal-learning-projects/Nextjs/promtopia/app/profile/[id]/page.jsx": {
+      "id": "(app-client)/./app/profile/[id]/page.jsx",
+      "name": "*",
+      "chunks": [
+        "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/kishanprajapati/Personal-learning-projects/Nextjs/promtopia/app/profile/[id]/page.jsx#": {
+      "id": "(app-client)/./app/profile/[id]/page.jsx",
+      "name": "",
+      "chunks": [
+        "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/kishanprajapati/Personal-learning-projects/Nextjs/promtopia/app/profile/[id]/page.jsx#default": {
+      "id": "(app-client)/./app/profile/[id]/page.jsx",
+      "name": "default",
+      "chunks": [
+        "app/profile/[id]/page:static/chunks/app/profile/[id]/page.js"
       ],
       "async": false
     }
